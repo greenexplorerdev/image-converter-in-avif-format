@@ -5,7 +5,8 @@
 Invece di aprire Photoshop o un sito web per ogni foto, ho scritto questo programma che prende tutte le immagini in una cartella e le converte in automatico in formato .avif (un formato moderno che pesa poco).
 
 ### Tech Stack
-Javascript - Node.js
+- Javascript: Gestione della logica di conversione
+- Node.js: Infrastruttura e pacchetti per la conversione offline 
 
 ### Funzionalità Implementate
 - Cerca nella cartella `./immagini` tutti i file `.jpg`, `.png`, `.gif` e `.webp`.
