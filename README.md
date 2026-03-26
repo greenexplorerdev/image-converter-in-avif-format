@@ -1,5 +1,8 @@
 🌐 Convertitore Immagini Semplice (Node.js)
-È uno script che ho creato per automatizzare una cosa noiosa: convertire le immagini. Invece di aprire Photoshop o un sito web per ogni foto, ho scritto questo programma che prende tutte le immagini in una cartella e le converte in automatico in formato .avif (un formato moderno che pesa poco).
+
+È uno script che ho creato per automatizzare una cosa noiosa: convertire le immagini.
+
+Invece di aprire Photoshop o un sito web per ogni foto, ho scritto questo programma che prende tutte le immagini in una cartella e le converte in automatico in formato .avif (un formato moderno che pesa poco).
 
 ### Tech Stack
 Javascript - Node.js
@@ -10,6 +13,8 @@ Javascript - Node.js
 - Li salva nella cartella `./immagini/convertite`.
 - **Funzione intelligente**: Se chiudi lo script e lo riavvii, non riconverte le immagini che hai già fatto. Controlla se il file esiste e lo salta. Questo fa risparmiare un sacco di tempo! ⏱️
 
+### Obiettivo: 
+Non dover più utilizzare convertitori online pieni di pubblicità o funzioni premium per convertire immagini in formato web moderno e leggero.
 
 ## 🚀 Come usarlo
 
